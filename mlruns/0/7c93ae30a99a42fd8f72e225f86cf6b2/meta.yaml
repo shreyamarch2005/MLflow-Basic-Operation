@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/New%20folder/mlflow.test/mlruns/0/7c93ae30a99a42fd8f72e225f86cf6b2/artifacts
+end_time: 1708420897663
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7c93ae30a99a42fd8f72e225f86cf6b2
+run_name: wise-roo-696
+run_uuid: 7c93ae30a99a42fd8f72e225f86cf6b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708420890248
+status: 3
+tags: []
+user_id: Shreya

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/New%20folder/mlflow.test/mlruns/0/2e875ecfed3d48e2af8126be85d7f83b/artifacts
+end_time: 1708420479047
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e875ecfed3d48e2af8126be85d7f83b
+run_name: bright-pig-362
+run_uuid: 2e875ecfed3d48e2af8126be85d7f83b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708420471577
+status: 3
+tags: []
+user_id: Shreya
